@@ -2,4 +2,7 @@
     <string name="app_name">TugasFilsafat</string>
     <string name="title_activity_splash">SplashActivity</string>
     <string name="splashscreen">SplashScreen</string>
+    
+    <string name="open_file">Buka File Manager</string>
+    <string name="generate">Generate</string>
 </resources>
